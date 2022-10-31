@@ -1,0 +1,25 @@
+{
+  "name": "homework07",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "mongoose": "^5.10.15"
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0480-034-fall-2020/jennyng514-homework07.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0480-034-fall-2020/jennyng514-homework07/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0480-034-fall-2020/jennyng514-homework07#readme",
+  "description": ""
+}
